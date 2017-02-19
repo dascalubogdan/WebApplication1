@@ -9,7 +9,7 @@ namespace WebApplication1.Tests
         [TestMethod]
         public void TestMethod1()
         {
-            Assert.AreEqual(5, 2+2);
+            Assert.AreEqual(4, 2+2);
         }
     }
 }
