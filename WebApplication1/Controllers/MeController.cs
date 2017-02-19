@@ -40,7 +40,7 @@ namespace WebApplication1.Controllers
             }
         }
 
-        // GET api/Me
+        // GET api/Me sdasdasdasdaasdssssss
         public GetViewModel Get()
         {
             var user = UserManager.FindById(User.Identity.GetUserId());
