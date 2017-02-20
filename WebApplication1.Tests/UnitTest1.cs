@@ -10,7 +10,7 @@ namespace WebApplication1.Tests
         public void TestMethod1()
         {
             //ssssdddsssdddssddddddddd
-            Assert.AreEqual(5, 2+2);
+            Assert.AreEqual(4, 2+2);
         }
     }
 }
