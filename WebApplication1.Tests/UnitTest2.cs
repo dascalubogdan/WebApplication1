@@ -14,12 +14,5 @@ namespace WebApplication1.Tests
             HomeController c = new HomeController();
             Assert.IsNotNull(c.Index());
         }
-
-        [TestMethod]
-        public void TestMethod3()
-        {
-            MeController c = new MeController();
-            Assert.IsNotNull(c.Get());
-        }
     }
 }
